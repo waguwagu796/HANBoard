@@ -1,4 +1,4 @@
-package com.study.board.service;
+package com.study.board.Service;
 
 import com.study.board.entity.Board;
 import com.study.board.repository.BoardRepository;
